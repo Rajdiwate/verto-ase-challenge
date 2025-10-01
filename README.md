@@ -12,8 +12,8 @@ A full-stack shopping cart application built with React, TypeScript, Node.js, an
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd simple-shopping-cart  # or your repository name
+   git clone https://github.com/Rajdiwate/verto-ase-challenge.git
+   cd verto-ase-challenge
    ```
 
 ### Client Setup
