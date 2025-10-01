@@ -106,4 +106,4 @@ JWT_EXPIRES_IN=240000
 ## Live Demo
 
 Check out the live demo of the application:
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-green)](https://your-deployment-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-green)](https://verto-ase-challenge-beta.vercel.app/)
