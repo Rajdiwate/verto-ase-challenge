@@ -2,6 +2,11 @@
 
 A full-stack shopping cart application built with React, TypeScript, Node.js, and PostgreSQL.
 
+## Live Demo
+
+Check out the live demo of the application:
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-green)](https://verto-ase-challenge-beta.vercel.app/)
+
 ## Prerequisites
 
 - Node.js (v18 or higher)
@@ -103,7 +108,3 @@ JWT_SECRET=your_jwt_secret
 JWT_EXPIRES_IN=240000
 ```
 
-## Live Demo
-
-Check out the live demo of the application:
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-green)](https://verto-ase-challenge-beta.vercel.app/)
